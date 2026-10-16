@@ -1,0 +1,11 @@
+data/*.edf
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# local tooling, never committed
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+*.zip
