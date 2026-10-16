@@ -5,7 +5,4 @@ __pycache__/
 .ipynb_checkpoints/
 
 # local tooling, never committed
-.claude/
-CLAUDE.md
-CLAUDE.local.md
 *.zip
